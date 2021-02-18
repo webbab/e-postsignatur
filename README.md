@@ -1,4 +1,3 @@
-# e-postsignatur
 # HTML E-postsignatur
 
 ![HTML Email Signature Example](https://github.com/HigherEducation/email-signature/blob/master/example.jpg)
